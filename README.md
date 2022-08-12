@@ -35,7 +35,7 @@ runtime: 4.443 seconds
 runtime: 2.777 seconds
 
 Если убрать fwrite
-runtime: .001 seconds
+runtime: 1.417 seconds
 
 Всё это на машине 
 model name      : Intel(R) Core(TM) i5-9400T CPU @ 1.80GHz
